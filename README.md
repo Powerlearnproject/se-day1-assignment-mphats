@@ -2,7 +2,7 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
@@ -41,13 +41,11 @@ To guarantee the software's quality and reliability, the **testing** phase is in
 
 Upon successful completion of testing, the **deployment** phase marks the release of the software to the intended users. This entails installing, configuring, and deploying the software in the production environment.
 
-Finally, the **maintenance** phase ensures the software's longevity and continued effectiveness. It involves providing ongoing support, addressing bugs, implementing enhancements, and adapting the software to evolving requirements.
+Finally, the maintenance phase ensures the software's longevity and continued effectiveness. It involves providing ongoing support, addressing bugs, implementing enhancements, and adapting the software to evolving requirements.
 
 By adhering to these well-defined phases, software development teams can significantly increase their chances of delivering successful and high-quality software products that meet user expectations and business objectives.
   
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
-Waterfall vs. Agile Methodologies
 
 The Waterfall model is a traditional, linear approach to software development. It progresses sequentially through distinct phases: requirements, design, implementation, testing, deployment, and maintenance. This structured method is often compared to a waterfall, as each phase concludes before the next begins. While offering clarity and thorough documentation, the Waterfall model is less adaptable to changes, making it suitable for projects with well-defined requirements and minimal uncertainties. For instance, developing a critical medical device with stringent regulations would benefit from the Waterfall model's structured approach.
 
