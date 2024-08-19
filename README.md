@@ -87,12 +87,12 @@ Comparison Table
 
 | Feature              |      Waterfall                      | Agile                                  |
 |----------------------|-------------------------------------|----------------------------------------|
-| Approach             |      Sequential                     | Iterative -----------------------------|
-| Flexibility          |      Low                            | High ----------------------------------|
-| Documentation        |      Extensive                      | Minimal -------------------------------|
-| Customer involvement |      Limited                        | High ----------------------------------|
-| Risk                 |      High (due to late testing)     | Lower (due to early feedback) ---------|
-| Suitable for         |      Projects with clear requirements| Projects with uncertain requirements -|
+| Approach             |      Sequential                     | Iterative                              |
+| Flexibility          |      Low                            | High                                   |
+| Documentation        |      Extensive                      | Minimal                                |
+| Customer involvement |      Limited                        | High                                   |
+| Risk                 |      High (due to late testing)     | Lower (due to early feedback)          |
+| Suitable for         |      Projects with clear requirements| Projects with uncertain requirements  |
 
 while both Waterfall and Agile have their merits, the choice of methodology depends on the specific project characteristics. Waterfall is better suited for projects with well-defined requirements and minimal uncertainties, while Agile is more suitable for projects with evolving requirements and a need for flexibility. Many modern projects adopt a hybrid approach, combining elements of both methodologies to optimize the development process.
 
